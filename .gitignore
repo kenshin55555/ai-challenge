@@ -1,3 +1,5 @@
 .env
 genai-challenge.png
 **__pycache__
+ui/__pycache__/streamlit_ui.cpython-313.pyc
+agents/__pycache__/agent.cpython-313.pyc
