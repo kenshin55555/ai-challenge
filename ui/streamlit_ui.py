@@ -5,7 +5,7 @@ def run_streamlit_app():
     """
     Sets up and runs the Streamlit web application for the ADK chat assistant.
     """
-    st.set_page_config(page_title="ADK Greeting & Chat Agent", layout="wide") # Configures the browser tab title and page layout.
+    st.set_page_config(page_title="Test interface for Gen AI challenge", layout="wide") # Configures the browser tab title and page layout.
     st.title("Test interface for Gen AI challenge") # Main title of the app.
     st.caption("streamlit logic by [Ketan Raj](https://medium.com/@ketanraaz/build-your-agent-a-deep-dive-into-google-adk-and-streamlit-integration-cee9d79164e4)")
     st.markdown("Placeholder") # Descriptive text.
